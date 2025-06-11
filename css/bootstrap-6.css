@@ -11702,7 +11702,7 @@ a {
 }
 
 a:hover {
-  color: #be00c1;
+  color: #8500be;
 }
 
 a.no-text-decoration {
@@ -11710,11 +11710,11 @@ a.no-text-decoration {
 }
 
 .theme-bg-primary {
-  background-color: #f700ee;
+  background-color: #8500be;
 }
 
 .theme-bg-primary-darken {
-  background-color: #f700ee;
+  background-color: #8500be;
 }
 
 a.theme-btn-on-bg, .theme-btn-on-bg {
@@ -11747,7 +11747,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-header {
-  background: #ec74ff;
+  background: #d69dff;
   color: rgba(255, 255, 255, 0.9);
   height: 220px;
 }
@@ -11801,7 +11801,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   bottom: 0;
   width: 100%;
   height: 1.5px;
-  background: #ec74ff;
+  background: #d69dff;
 }
 
 .resume-section-content {
@@ -11817,7 +11817,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   display: inline-block;
   width: 3px;
   height: 100%;
-  background: #ec74ff;
+  background: #d69dff;
   left: 6px;
   top: 4px;
   position: absolute;
